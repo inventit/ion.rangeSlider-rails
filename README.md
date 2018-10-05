@@ -28,23 +28,25 @@ And in your `application.css` you will need to add this line:
 
     *= require ion.rangeSlider
 
-or 
+And you can choose your favorite skin:
+
+Flat UI Skin
 
     *= require ion.rangeSlider.skinFlat
 
-or 
+HTML5 skin
 
     *= require ion.rangeSlider.skinHTML5
 
-or 
+Modern skin
 
     *= require ion.rangeSlider.skinModern
 
-or 
-
+Nice white skin
+    
     *= require ion.rangeSlider.skinNice
 
-or 
+Simple dark skin
 
     *= require ion.rangeSlider.skinSimple
 
